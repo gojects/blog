@@ -1,6 +1,6 @@
 title: Yet another personality
 description: > # this means to ignore newlines until "baseurl:"
-  Мысли рождают идеи
+  Ни о чем и обо всем
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aiow.ru" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Yet another personality # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: # add description
+about-author: Ни о чем и обо всем # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
